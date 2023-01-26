@@ -1,4 +1,4 @@
-# Research Project: Object Tracking & Path Prediction
+# Research Project: Frame Prediction for Aerial Objects
 ```
 * Team Members: Jonathan, Rongge, Keyu
 * Related Course: COMP 558 Fundamentals of Computer Vision
